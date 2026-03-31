@@ -37,3 +37,12 @@ It helps identify unusual aircraft behavior, improving aviation safety and secur
 ```bash
 pip install -r requirements.txt
 streamlit run dashboard/app.py
+
+📊 Output
+Detects anomalies in flight data
+Visual dashboard for analysis
+
+🎯 Future Improvements
+Deep Learning models (LSTM, Autoencoders)
+Real-time streaming data
+Advanced anomaly visualization
